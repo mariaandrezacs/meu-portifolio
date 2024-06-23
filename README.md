@@ -1,2 +1,2 @@
-# meu-portifolio
-Construindo meu portifolio
+# Bem-vindo ao meu Portfólio!
+Olá! Meu nome é Maria Andreza, e este é o meu portfólio no GitHub, onde compartilho alguns dos projetos. Sou apaixonado por Tecnologia e atualmente estou migrando para programação, e aqui você encontrará uma variedade de projetos que demonstram minhas habilidades e meu entusiasmo por tecnologia. Sinta-se à vontade para explorar, abrir problemas ou fornecer feedback. Espero que você encontre algo interessante por aqui!
